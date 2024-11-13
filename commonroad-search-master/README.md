@@ -1,7 +1,5 @@
 # CommonRoad Search: Search-based Motion Planner with Motion Primitives
 
-This is a programming exercise of the lecture **Fundamentals of Artificial Intelligence (IN2406)** delivered at the Department of Informatics, TUM. The task is to implement a heuristic function and/or a search algorithm with motion primitives to solve motion planning problems in [CommonRoad](https://commonroad.in.tum.de/). The following search algorithms are already implemented in our framework:
-
 |Uninformed Search Algorithms &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Informed Search Algorithms &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |-----------------------------|---------------------------|
 |Breadth First Search <br /> Depth First Search <br /> Depth-limited Search <br />   Uniform Cost Search (Dijkstra)      |Greedy Best First Search <br />  A* Search                  |
